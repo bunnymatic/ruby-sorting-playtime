@@ -7,5 +7,6 @@ ruby ./sort_users.rb
 
 # Exercises
 
-Update the sort function so it does what you want
+Build a new sort function that falls back to login when appropriate
+
 
